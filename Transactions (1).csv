@@ -1,0 +1,24 @@
+1. What is the $ value of transactions broken out by the “payment made at” field?,,
+,,
+,Payment Made At,Payment Amount
+,132,161499.545
+,1247,215637.13
+,8144,90378
+,,
+2. What is the unique count of agreement numbers within each consolidated_profit_center,,
+,,
+,Consolidated_Profit_center,Agreement Numbers
+,Membership,13427
+,Retail,3569
+,Fitness,4090
+,Other,911
+,Membership Cash,1264
+,,
+3. What is the $ value of each consolidated_profit_center  by “Membership_Types”,,
+,,
+,Consolidated_Profit_center,
+,Membership,
+,Retail,
+,Fitness,
+,Other,
+,Membership Cash,
